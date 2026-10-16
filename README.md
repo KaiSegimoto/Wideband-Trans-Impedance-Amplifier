@@ -5,6 +5,8 @@ A differential **wideband trans-impedance amplifier (TIA)** for optical receiver
 Final project for **ESE 5720 – Analog Integrated Circuits**, University of Pennsylvania, Fall 2024.
 Author: **Kai Segimoto**
 
+**[Read the full report →](REPORT.md)**
+
 ## Architecture
 
 - **Common-gate input stage**: low input impedance that isolates the 100 fF photodiode capacitance
@@ -36,7 +38,6 @@ The report also covers:
 
 ## Files
 
-- `ESE 5720 Final Project.docx`: full design report
-- `ESE 572 data.docx`: Cadence captures of the final TIA schematic, the simulation results (trans-impedance gain, transient, AC, noise) and the integrated-noise summary
-
-Download the files to view them, since GitHub does not render `.docx` files.
+- [`REPORT.md`](REPORT.md): the full design report, readable on GitHub (figures in `report_images/`)
+- [`SIMULATION_DATA.md`](SIMULATION_DATA.md): Cadence captures of the final TIA schematic, the simulation results (trans-impedance gain, transient, AC, noise) and the integrated-noise summary
+- `ESE 5720 Final Project.docx`, `ESE 572 data.docx`: the original Word files
