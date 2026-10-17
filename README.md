@@ -2,8 +2,6 @@
 
 A differential **wideband trans-impedance amplifier (TIA)** for optical receivers, designed in **45 nm CMOS** with Cadence Virtuoso/Spectre.
 
-Final project for **ESE 5720 – Analog Integrated Circuits**, University of Pennsylvania, Fall 2024.
-Author: **Kai Segimoto**
 
 **[Read the full report →](REPORT.md)**
 
